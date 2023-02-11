@@ -21,7 +21,7 @@
   "homepage": "https://github.com/RenatoValentim/labNodeTs#readme",
   "devDependencies": {
     "eslint": "^7.0.0",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "sucrase": "^3.13.0",
     "typescript": "^3.8.3"
   }
